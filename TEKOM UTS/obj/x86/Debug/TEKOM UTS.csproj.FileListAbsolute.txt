@@ -1,0 +1,5 @@
+C:\Users\Aslab 2\documents\visual studio 2010\Projects\TEKOM UTS\TEKOM UTS\bin\Debug\TEKOM UTS.exe
+C:\Users\Aslab 2\documents\visual studio 2010\Projects\TEKOM UTS\TEKOM UTS\bin\Debug\TEKOM UTS.pdb
+C:\Users\Aslab 2\documents\visual studio 2010\Projects\TEKOM UTS\TEKOM UTS\obj\x86\Debug\TEKOM UTS.exe
+C:\Users\Aslab 2\documents\visual studio 2010\Projects\TEKOM UTS\TEKOM UTS\obj\x86\Debug\TEKOM UTS.pdb
+C:\Users\Aslab 2\documents\visual studio 2010\Projects\TEKOM UTS\TEKOM UTS\obj\x86\Debug\TEKOM UTS.csprojResolveAssemblyReference.cache
